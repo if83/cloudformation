@@ -27,7 +27,7 @@ First of all you must specify vars for you template, just create file key.json a
 	  {
     	"ParameterKey": "SSHLocation",
     	"ParameterValue": "0.0.0.0/0"    
-	  }
+	  },
       {
     	"ParameterKey": "VpcId",
     	"ParameterValue": "vpc-fb8e0292"    
